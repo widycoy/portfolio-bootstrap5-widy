@@ -1,9 +1,6 @@
 // data.js
 const aboutDescription = `
-  Saya adalah orang yang sangat antusias di dunia IT dengan pengalaman 9 tahun
-  bekerja sebagai NOC dan Engineer On Site / Teknisi Lapangan. Telah menyelesaikan
-  ratusan tiket serta lebih dari 400 Work Order. Familiar dengan JavaScript, Node.js,
-  dan Express.js.
+  Saya adalah orang yang sangat antusias di dunia IT dengan pengalaman 9 tahun bekerja sebagai NOC dan Engineer On Site / Teknisi Lapangan. Telah menyelesaikan ratusan tiket serta lebih dari 400 Work Order. Familiar dengan JavaScript, Node.js, dan Express.js.
 `;
 
 const dataPribadi = [
