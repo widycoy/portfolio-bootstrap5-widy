@@ -53,8 +53,9 @@ document.addEventListener("DOMContentLoaded", () => {
     <div class="col-md-4 mb-3">
       <div class="card h-100">
         <img src="${project.img}" class="card-img-top" alt="Project">
-        <div class="card-body">
+        <div class="card-body d-flex flex-column">
           <p class="card-text">${project.desc}</p>
+          <a href="${project.link}" target="_blank" class="btn btn-success mt-auto">View Project</a>
         </div>
       </div>
     </div>
