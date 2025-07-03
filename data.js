@@ -26,7 +26,7 @@ const pendidikanInformal = [
 ];
 
 const projects = [
-  { img: "img/projects/1.jpg", desc: "Website Portofolio Pribadi", link: "https://github.com/widycoy/portfolio-bootstrap5-widy" },
+  { img: "img/projects/1.jpg", desc: "Website Portofolio Pribadi", link: "https://widycoy.github.io" },
   { img: "img/projects/2.jpg", desc: "Project Bean Bank (Backend)", link: "https://github.com/widycoy/bean-bank-transitions" },
   { img: "img/projects/3.jpg", desc: "Suwit Jawa Game", link: "https://github.com/widycoy/SUWIT-JAWA-GAME" },
   { img: "img/projects/4.jpg", desc: "Project Automation - QA", link: "https://github.com/widycoy/MobileAutomation" },
